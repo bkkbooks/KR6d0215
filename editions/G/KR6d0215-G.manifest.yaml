@@ -1,0 +1,188 @@
+canonical_identifier: bkk:krp/KR6d0215/G/v1
+canonical_location: https://kanripo.org/bkk/KR6d0215/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 科始終心要
+  identifiers:
+    krp: KR6d0215
+    cbeta: G069n1977
+    cbeta_old_id: G069n1977
+    authorityid: CA0008092
+    json_key: G1977
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G069/G069n1977.xml
+    old_id: G069n1977
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0215_000-G.yaml, hash: 'sha256:d4cb83dc4380700332bfeb9a9e353eb0979dd709950ac82a0b4f5c2014f80c5a'}
+  - {seq: 1, filename: KR6d0215_001-G.yaml, hash: 'sha256:48a7b2cebeb82ddfb3769e7bdd1e1f17c7e77983f8ecd0b33d7b1629b9fb7b70'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0215_000-G.markers.yaml, hash: 'sha256:d05f03eb88503ffd8b499c9f3297cc6c6940e84658b83cd70a203d8c2868d7f2'}
+  - {seq: 1, role: markers, filename: assets/KR6d0215_001-G.markers.yaml, hash: 'sha256:1a77e9a901f0bf92e5b77c594925eb4cc9fb9ac36bc2e515ea30f35ed1ce34ad'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0215_G_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 心要分二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0215_G_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 初題目二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0215_G_000-mulu-3
+    span:
+    - front
+    - 0
+    - 0
+  label: 初標題目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 295
+  label: 始終心要
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 二述人號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 二正文三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-3
+    span:
+    - body
+    - 9
+    - 9
+  label: 初始性三德體融本具
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-4
+    span:
+    - body
+    - 59
+    - 59
+  label: 二終修稱性迷悟俱融三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-5
+    span:
+    - body
+    - 59
+    - 59
+  label: 初迷德成惑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-6
+    span:
+    - body
+    - 91
+    - 91
+  label: 二悟虛可化四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-7
+    span:
+    - body
+    - 91
+    - 91
+  label: 初三惑是虛妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-8
+    span:
+    - body
+    - 102
+    - 102
+  label: 二佛悟知生迷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-9
+    span:
+    - body
+    - 147
+    - 147
+  label: 三立觀令破顯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-10
+    span:
+    - body
+    - 165
+    - 165
+  label: 四用觀破顯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-11
+    span:
+    - body
+    - 211
+    - 211
+  label: 三迷悟俱融
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0215_G_001-mulu-12
+    span:
+    - body
+    - 237
+    - 237
+  label: 三始終體一修證圓頓
+  type: mulu
+  level: 1
+hash: sha256:15aa4d584acdd19ed6c82c6f463c7e44dd841a6e2da2eb356a61c25e7bf6ee73
