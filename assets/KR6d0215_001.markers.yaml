@@ -20,7 +20,6 @@ markers:
   - {type: line-break, offset: 59, content: '', id: KR6d0215_G_001-0717a05, ed: G, 'n': 0717a05}
   - {type: xml-element, offset: 59, content: '', id: pG069p0717a0501, name: p, role: open, attrs: {'xml:id': pG069p0717a0501}}
   - {type: punctuation, offset: 65, content: 。, id: KR6d0215_G_001-bkkpn8}
-  - {type: substitution, offset: 65, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3256}}
   - {type: punctuation, offset: 72, content: 。, id: KR6d0215_G_001-bkkpn9}
   - {type: punctuation, offset: 79, content: 。, id: KR6d0215_G_001-bkkpn10}
   - {type: punctuation, offset: 85, content: 。, id: KR6d0215_G_001-bkkpn11}
@@ -37,12 +36,10 @@ markers:
   - {type: punctuation, offset: 108, content: 。, id: KR6d0215_G_001-bkkpn15}
   - {type: punctuation, offset: 112, content: 。, id: KR6d0215_G_001-bkkpn16}
   - {type: punctuation, offset: 116, content: 。, id: KR6d0215_G_001-bkkpn17}
-  - {type: substitution, offset: 116, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 122, content: 。, id: KR6d0215_G_001-bkkpn18}
   - {type: punctuation, offset: 126, content: 。, id: KR6d0215_G_001-bkkpn19}
   - {type: line-break, offset: 129, content: '', id: KR6d0215_G_001-0717a09, ed: G, 'n': 0717a09}
   - {type: punctuation, offset: 132, content: 。, id: KR6d0215_G_001-bkkpn20}
-  - {type: substitution, offset: 134, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 142, content: 。, id: KR6d0215_G_001-bkkpn21}
   - {type: punctuation, offset: 147, content: 。, id: KR6d0215_G_001-bkkpn22}
   - {type: xml-element, offset: 147, content: '', id: pG069p0717a0801_end, name: p, role: close, attrs: {'xml:id': pG069p0717a0801}}
@@ -96,4 +93,4 @@ markers:
   - {type: xml-element, offset: 295, content: '', id: pG069p0718a0301_end, name: p, role: close, attrs: {'xml:id': pG069p0718a0301}}
   - {type: line-break, offset: 295, content: '', id: KR6d0215_G_001-0718a06, ed: G, 'n': 0718a06}
   back: []
-hash: sha256:d4d82f4b4a52b3ef2b8d57fd5b962164b8d5f6578fed275a6961c773f491dffa
+hash: sha256:db4b3aceef2d675a67e2206ec408686d0f3108ab32811d90c80a521319d312ac

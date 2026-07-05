@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6d0215_000.yaml, hash: 'sha256:d4cb83dc4380700332bfeb9a9e353eb0979dd709950ac82a0b4f5c2014f80c5a'}
-  - {seq: 1, filename: KR6d0215_001.yaml, hash: 'sha256:fcb484e608390cd0a63802e912a6cda62f2140a576fd2c92c2ae386b2e2d8a02'}
+  - {seq: 1, filename: KR6d0215_001.yaml, hash: 'sha256:48a7b2cebeb82ddfb3769e7bdd1e1f17c7e77983f8ecd0b33d7b1629b9fb7b70'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0215_001.markers.yaml, hash: 'sha256:d4d82f4b4a52b3ef2b8d57fd5b962164b8d5f6578fed275a6961c773f491dffa'}
+  - {seq: 0, role: markers, filename: assets/KR6d0215_000.markers.yaml, hash: 'sha256:008fcbdf199c3e55e679e88c3a886be1a6db6bc04d194708dcc1439b23f35758'}
+  - {seq: 1, role: markers, filename: assets/KR6d0215_001.markers.yaml, hash: 'sha256:db4b3aceef2d675a67e2206ec408686d0f3108ab32811d90c80a521319d312ac'}
 table_of_contents:
 - ref:
     seq: 0
@@ -181,9 +182,6 @@ table_of_contents:
   label: 三始終體一修證圓頓
   type: mulu
   level: 1
-hash: sha256:3548d5a9b9f8517bd7df0d4c58bb3f2c49434dbb7c1483ebf5ed3596c6e261ba
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2ccaa603173bba7c994fced3dc7b4310534123fb022d1744c310c55f3930be0a
 editions:
 - short: G
