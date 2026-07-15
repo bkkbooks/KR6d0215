@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0215/v1
 canonical_location: https://kanripo.org/bkk/KR6d0215/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 科始終心要
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6d0215_000.yaml, hash: 'sha256:d4cb83dc4380700332bfeb9a9e353eb0979dd709950ac82a0b4f5c2014f80c5a'}
-  - {seq: 1, filename: KR6d0215_001.yaml, hash: 'sha256:48a7b2cebeb82ddfb3769e7bdd1e1f17c7e77983f8ecd0b33d7b1629b9fb7b70'}
+  - {seq: 1, filename: KR6d0215_001.yaml, hash: 'sha256:8fa160538f5dc77d21a072936509ba8c830f30b6cf49f7ac0ac092452dc2d165'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0215_000.markers.yaml, hash: 'sha256:008fcbdf199c3e55e679e88c3a886be1a6db6bc04d194708dcc1439b23f35758'}
-  - {seq: 1, role: markers, filename: assets/KR6d0215_001.markers.yaml, hash: 'sha256:db4b3aceef2d675a67e2206ec408686d0f3108ab32811d90c80a521319d312ac'}
+  - {seq: 1, role: markers, filename: assets/KR6d0215_001.markers.yaml, hash: 'sha256:e5843f162b724456b4ee15e9f5f9a2a0bebbb651e4bd2693515f190d58439dcb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -182,6 +182,9 @@ table_of_contents:
   label: 三始終體一修證圓頓
   type: mulu
   level: 1
-hash: sha256:2ccaa603173bba7c994fced3dc7b4310534123fb022d1744c310c55f3930be0a
+hash: sha256:3dd7516b6b18d07684802d72543808d2d592e20fad56a62af2e9846fe9a6b69a
 editions:
 - short: G
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
